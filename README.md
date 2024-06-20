@@ -73,7 +73,7 @@ pip install pandas scikit-learn streamlit
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/jeetml/PRODIGY_ML_01/blob/main/houseprice.png))
+![App Screenshot](https://github.com/jeetml/PRODIGY_ML_01/blob/main/houseprice.png)
 
 
 
