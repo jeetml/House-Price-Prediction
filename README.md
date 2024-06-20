@@ -31,7 +31,7 @@ After data cleaning and feature engineering, the dataset is refined to the follo
 - `location`: The location of the house.
 - `size`: The size of the house in square feet.
 - `bath`: The number of bathrooms.
-- `bhk`: The number of balconies.
+- `bhk`: The number of bhk.
 
 #### For downloding dataset:
 - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data/data
